@@ -8,19 +8,18 @@
 - 📍 **Ubicación**: Guárico - Venezuela  
 - 💼 **Puesto/trabajo actual**: Dispuesto a encontrar nuevos retos  
 - 🌱 **Aprendizaje actual**: Desarrollo de software, desarrollo frontend y herramientas de automatización  
-- 💬 **Pregúntame sobre**: Diseño gráfico, UX/UI, RPA, Python, Web Scraping, Fútbol  
-- ⚡ **Fun Fact**: Juego fútbol de manera horrible, pero lo sigo haciendo de todos modos. 😄
+- 💬 **Pregúntame sobre**: Diseño gráfico, UX/UI, Guitarra Electrica, Fútbol  
+- ⚡ **Dato curioso**: Juego fútbol de manera horrible, pero lo sigo haciendo de todos modos. 😄
 
 ## Habilidades y Tecnologías
 
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-- **Diseño Gráfico**: Adobe Photoshop, Illustrator, InDesign, Figma, Canva  
+- **Diseño Gráfico**: Adobe Photoshop, Illustrator, InDesign, Figma,   
 - **Desarrollo Frontend**: HTML, CSS, JavaScript, React  
-- **Bases de Datos**: MySQL, PostgreSQL  
-- **Herramientas de Automatización**: Automation Anywhere, UiPath  
+- **Bases de Datos**: MySQL, PostgreSQL    
 - **Control de Versiones**: Git, GitHub  
-- **Otros**: Web Scraping, Python (para automatización y análisis de datos)  
+- **Otros**: Se tocar Guitarra Eléctrica   
 
 ## Proyectos Destacados
 
