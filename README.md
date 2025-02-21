@@ -23,23 +23,22 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 ## Proyectos Destacados
 
-[//]: # (Aquí tienes algunos de mis proyectos favoritos:
+"Próximamente..."
+<!-- Aquí tienes algunos de mis proyectos favoritos: -->
 
-- **[Nombre del Proyecto 1](https://github.com/ibsenseijas7/proyecto1)**: Breve descripción del proyecto.  
-- **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto.  
-- **[Nombre del Proyecto 3](https://github.com/ibsenseijas7/proyecto3)**: Breve descripción del proyecto.  
+<!-- - **[Nombre del Proyecto 1](https://github.com/ibsenseijas7/proyecto1)**: Breve descripción del proyecto. -->  
+<!-- - **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto. -->  
+<!-- - **[Nombre del Proyecto 3](https://github.com/ibsenseijas7/proyecto3)**: Breve descripción del proyecto. -->  
 
-(Si no tienes proyectos públicos aún, puedes omitir esta sección o dejarla como un marcador de posición para futuras actualizaciones).
-)
+<!-- (Si no tienes proyectos públicos aún, puedes omitir esta sección o dejarla como un marcador de posición para futuras actualizaciones). -->
+
 ## Contacto
 
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
 
-- 📧 **Email**: [ibsenseijas@example.com](mailto:ibsenseijas@example.com)  
-- 💼 **LinkedIn**: [Ibsen Seijas en LinkedIn](https://www.linkedin.com/in/ibsenseijas/)  
+- 📧 **Email**: [ibsenseijas7@gmail.com.com](mailto:ibsenseijas7@gmail.com)  
+- 💼 **LinkedIn**: [Ibsen Seijas en LinkedIn](https://www.linkedin.com/in/ibsenseijas7)  
 - 🌐 **Portfolio**: [En construcción...](#)  
-
-(Si tienes un portafolio en línea, agrega el enlace aquí).
 
 ## Actividad Reciente en GitHub
 
