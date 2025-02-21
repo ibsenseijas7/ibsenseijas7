@@ -36,7 +36,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
 
-- 📧 **Email**: [ibsenseijas7@gmail.com.com](mailto:ibsenseijas7@gmail.com)  
+- 📧 **Email**: [ibsenseijas7@gmail.com](mailto:ibsenseijas7@gmail.com)  
 - 💼 **LinkedIn**: [Ibsen Seijas en LinkedIn](https://www.linkedin.com/in/ibsenseijas7)  
 - 👨🏽‍💻 **Behance**: [Aqui puedes ver algunos de mis trabajos con diseño gráfico](https://www.behance.net/ibsendisena)  
 - 🌐 **Portfolio**: [En construcción...](#)  
