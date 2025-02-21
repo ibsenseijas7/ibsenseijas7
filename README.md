@@ -1,47 +1,57 @@
 # Hola, soy Ibsen Seijas 👋
 
-¡Bienvenidos a mi GitHub! Soy un apasionado del Diseño Gráfico, el mundo de la Ingeniería Informática y el Desarrollo de Software.
+¡Bienvenidos a mi GitHub! Soy un apasionado del **Diseño Gráfico**, el **Diseño UX/UI** y el **Desarrollo de Software**. Con más de 6 años de experiencia en el mundo del diseño, me encanta combinar creatividad y tecnología para crear soluciones visuales impactantes y funcionales.
 
 ## Acerca de mí
 
-- 🎓 **Major**: Diseño gráfico y UX UI  
-- 📍 **Location**: Guárico - Venezuela  
-- 💼 **Current Job/Position**: Dispuesto a encontrar nuevos retos
-- 🌱 **Current Learning**: Data Engineering, Software Development, etc.  
-- 💬 **Ask me about**: RPA, Python, Data Engineering, Web Scraping, Soccer  
-- ⚡ **Fun Fact**: I play soccer horribly, but I still do it anyway.
+- 🎓 **Principal**: Diseño gráfico y UX/UI  
+- 📍 **Ubicación**: Guárico - Venezuela  
+- 💼 **Puesto/trabajo actual**: Dispuesto a encontrar nuevos retos  
+- 🌱 **Aprendizaje actual**: Desarrollo de software, desarrollo frontend y herramientas de automatización  
+- 💬 **Pregúntame sobre**: Diseño gráfico, UX/UI, RPA, Python, Web Scraping, Fútbol  
+- ⚡ **Fun Fact**: Juego fútbol de manera horrible, pero lo sigo haciendo de todos modos. 😄
 
-## Skills & Technologies
+## Habilidades y Tecnologías
 
-Here are some of the tools and technologies I love working with:
+Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-- **Languages**: HTML, Javascript, CSS, React
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: GitHub, Git
-- **Other**: Automation Anywhere
+- **Diseño Gráfico**: Adobe Photoshop, Illustrator, InDesign, Figma, Canva  
+- **Desarrollo Frontend**: HTML, CSS, JavaScript, React  
+- **Bases de Datos**: MySQL, PostgreSQL  
+- **Herramientas de Automatización**: Automation Anywhere, UiPath  
+- **Control de Versiones**: Git, GitHub  
+- **Otros**: Web Scraping, Python (para automatización y análisis de datos)  
 
-[//]: # (## Projects)
+## Proyectos Destacados
 
-[//]: # ()
-[//]: # (Here are some of my favorite repositories and projects:)
+Aquí tienes algunos de mis proyectos favoritos:
 
-[//]: # ()
-[//]: # (- [Project 1]&#40;https://github.com/yourusername/project1&#41; - Brief description of your project.)
+- **[Nombre del Proyecto 1](https://github.com/ibsenseijas7/proyecto1)**: Breve descripción del proyecto.  
+- **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto.  
+- **[Nombre del Proyecto 3](https://github.com/ibsenseijas7/proyecto3)**: Breve descripción del proyecto.  
 
+(Si no tienes proyectos públicos aún, puedes omitir esta sección o dejarla como un marcador de posición para futuras actualizaciones).
 
-## Get in Touch
+## Contacto
 
-- 📧 [Email](mailto:kgonzalezc@yahoo.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevingonzalezcastro/)
+¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
 
-[//]: # (- 🌐 **Website/Portfolio**: [Your Personal Website or Portfolio URL])
+- 📧 **Email**: [ibsenseijas@example.com](mailto:ibsenseijas@example.com)  
+- 💼 **LinkedIn**: [Ibsen Seijas en LinkedIn](https://www.linkedin.com/in/ibsenseijas/)  
+- 🌐 **Portfolio**: [En construcción...](#)  
 
-Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😄
+(Si tienes un portafolio en línea, agrega el enlace aquí).
 
-## :zap: Recent Activity
+## Actividad Reciente en GitHub
 
+¡Aquí puedes ver mi actividad reciente en GitHub!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAlexandro&hide_border=true&layout=compact)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fibsenseijas7.github.io%2Fibsensdisena)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsenseijas7&show_icons=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsenseijas7&hide_border=true&layout=compact)  
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ibsenseijas7/ibsenseijas7)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fibsenseijas7.github.io%2Fibsensdisena)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ibsenseijas7/ibsenseijas7)  
+
+---
+
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y no dudes en contactarme si quieres colaborar o simplemente charlar. 😄
