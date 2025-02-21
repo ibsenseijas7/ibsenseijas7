@@ -15,7 +15,7 @@
 
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-- **Diseño Gráfico**: Adobe Photoshop, Illustrator, InDesign, Figma,   
+- **Diseño Gráfico**: InDesign, Figma, Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Affinity Designer, Affinity Photo.   
 - **Desarrollo Frontend**: HTML, CSS, JavaScript, React  
 - **Bases de Datos**: MySQL, PostgreSQL    
 - **Control de Versiones**: Git, GitHub  
