@@ -23,14 +23,14 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 ## Proyectos Destacados
 
-Aquí tienes algunos de mis proyectos favoritos:
+[//]: # (Aquí tienes algunos de mis proyectos favoritos:
 
 - **[Nombre del Proyecto 1](https://github.com/ibsenseijas7/proyecto1)**: Breve descripción del proyecto.  
 - **[Nombre del Proyecto 2](https://github.com/ibsenseijas7/proyecto2)**: Breve descripción del proyecto.  
 - **[Nombre del Proyecto 3](https://github.com/ibsenseijas7/proyecto3)**: Breve descripción del proyecto.  
 
 (Si no tienes proyectos públicos aún, puedes omitir esta sección o dejarla como un marcador de posición para futuras actualizaciones).
-
+)
 ## Contacto
 
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
